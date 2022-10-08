@@ -45,11 +45,14 @@ It refers to a system for moving data from one system to another. The data may o
 ● Finally, a listing of the employee details based on the complex nested conditions is done.  
 
 𝗜𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻 𝘀𝘁𝗲𝗽𝘀 𝗵𝗲𝗿𝗲:  
-https://github.com/Ajay026/Projects/tree/main/Installation%20%26%20Execution/Installation%20%26%20Execution
+https://github.com/Ajay026/Projects/tree/main/Installation%20%26%20Execution/Installation%20%26%20Execution  
+
+𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻 𝘄𝗶𝘁𝗵 𝗦𝗼𝘂𝗿𝗰𝗲 𝗖𝗼𝗱𝗲:  
+https://github.com/Ajay026/Projects/tree/main/Codes/momo1606-sql_basic_latest-2ed0938ee08d  
+
 
 ![image](https://user-images.githubusercontent.com/70576003/194710172-df92a709-7c7e-40dd-85a8-c0882d9972e7.png)
 
 ![image](https://user-images.githubusercontent.com/70576003/194710238-1f486b0d-ddd7-4f61-92be-6bfe5b4e1f05.png)  
 
-Access the complete solution Here:  
-https://www.projectpro.io/project/hackerday-project/project-title/sql%20projects%20for%20data%20analysis%20using%20oracle#sub-hackerday-resources
+
