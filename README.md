@@ -44,6 +44,8 @@ It refers to a system for moving data from one system to another. The data may o
 ● The backup of the table where migration is going on is taken, followed by COMMIT and ROLLBACK commands. Then the listing of distinct records is done, and further renaming of the columns.  
 ● Finally, a listing of the employee details based on the complex nested conditions is done.  
 
+𝗜𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻 𝘀𝘁𝗲𝗽𝘀 𝗵𝗲𝗿𝗲:  
+
 ![image](https://user-images.githubusercontent.com/70576003/194710172-df92a709-7c7e-40dd-85a8-c0882d9972e7.png)
 
 ![image](https://user-images.githubusercontent.com/70576003/194710238-1f486b0d-ddd7-4f61-92be-6bfe5b4e1f05.png)  
