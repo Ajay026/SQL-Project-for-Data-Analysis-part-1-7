@@ -1,6 +1,4 @@
-# SQL Projects
-
-SQL Project for Data Analysis using Oracle Database-Part 1
+# SQL Projects for Data Analysis using Oracle Database
 
 𝗔𝗜𝗠:  
 In this SQL Project for Data Analysis, We will learn to efficiently leverage various analytical features and functions accessible through SQL in Oracle Database.
